@@ -7,6 +7,9 @@
 # Ignore bundler config.
 /.bundle
 
+# Ignore vim .swp files
+*.swp
+
 # Ignore all environment files (except templates).
 /.env*
 !/.env*.erb
